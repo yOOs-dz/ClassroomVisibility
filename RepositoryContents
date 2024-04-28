@@ -1,0 +1,9 @@
+Please find in this repository :
+1. The read_me.,d file containing informations on the project
+2. the complete QGIS folder including the main 'gis_class_isovist_final.qgz' folder. This zip file contains four (4) folders containing :
+  a. The main map file 'map',
+  b. Layers,
+  c. DepthmapX files,
+  d. CAD files.
+3. the layout file 'hackathon.qpt'
+4. the graphic output of the layout.
